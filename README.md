@@ -1,5 +1,3 @@
-Your grammar is mostly clear, but I have made a few minor corrections to improve fluency and polish:
-
 Hi,
 I'm a mechanical engineer with about 20 years of experience.
 I want to acquire programming skills as well, and maybe, in the future, work as a programmer—who knows?
