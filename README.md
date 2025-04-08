@@ -1,5 +1,5 @@
 Hi,
-I'm a mechanical engineer with about 20 years of experience.
+I'm a mechanical engineer with about 15 years of experience.
 I want to acquire programming skills as well, and maybe, in the future, work as a programmer—who knows?
 For now, I know JavaScript, and six years ago, I created my online store, which is still running today: www.tushe.od.ua.
 For this store, I used vanilla JavaScript, CSS, HTML, a bit of PHP for the server side, and Firebird for the database, so I have a general idea of how things work.
